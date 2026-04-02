@@ -1,6 +1,6 @@
 # Hi, I'm Mathieu 👋
 
-EDHEC Business School – PGE (Data Science & Finance)
+🎓 EDHEC Business School – PGE (Data Science & Finance)
 📈 Aspiring Sales & Trading professional  
 
 ## Interests
@@ -13,7 +13,7 @@ EDHEC Business School – PGE (Data Science & Finance)
 - 📈 Statistical analysis (R Markdown)
 
 ## Tools
-Python (pandas, numpy, statsmodels), R, Excel
+Python (pandas, numpy, statsmodels), R, Excel, VBA, ML
 
 ## Contact
 📧 mathieu.voluntario@gmail.com  
