@@ -1,6 +1,7 @@
 # Hi, I'm Mathieu 👋
 
 🎓 EDHEC Business School – PGE (Data Science & Finance)
+
 📈 Aspiring Sales & Trading professional  
 
 ## Interests
