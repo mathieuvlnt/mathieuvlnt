@@ -10,7 +10,7 @@
 - Market microstructure and risk  
 
 ## Projects
-- 📊 Pairs Trading Strategy (AAPL vs KO)
+- 📊 [Pairs Trading Strategy (AAPL vs KO)](https://github.com/mathieuvlnt/pairs-trading-strategy-aapl-ko)
 - 📈 Statistical analysis (R Markdown)
 
 ## Tools
