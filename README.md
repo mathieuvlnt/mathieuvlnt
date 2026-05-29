@@ -2,10 +2,11 @@
 
 🎓 EDHEC Business School – PGE (Data Science & Finance)
 
-📈 Aspiring Sales & Trading professional with strong interest in derivatives, risk management, and market dynamics
+📈 Aspiring Sales & Trading professional with strong interest in derivatives, commodities, risk management, and market dynamics
 
 ## Interests
-- Financial markets and macroeconomics  
+- Financial markets and macroeconomics
+- Commodities markets 
 - Trading strategies and quantitative analysis  
 - Market microstructure and risk  
 
