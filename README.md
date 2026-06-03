@@ -1,4 +1,4 @@
-# Hi, I'm Mathieu 👋
+# Mathieu Voluntario
 
 🎓 EDHEC Business School – PGE (Data Science & Finance)
 
