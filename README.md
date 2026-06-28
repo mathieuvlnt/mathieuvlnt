@@ -11,6 +11,7 @@
 - Market microstructure and risk  
 
 ## Projects
+- ⛽ [European Gas Market ML Research Pipeline](https://github.com/mathieuvlnt/gas-ml-research-pipeline)
 - 📊 [Pairs Trading Strategy (AAPL vs KO)](https://github.com/mathieuvlnt/pairs-trading-strategy-aapl-ko)
 - 📈 [Black-Scholes Option Pricing](https://github.com/mathieuvlnt/option-pricing-black-scholes)
 - 🔁 [Delta Hedging Simulation](https://github.com/mathieuvlnt/delta-hedging-simulation)
