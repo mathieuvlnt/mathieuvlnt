@@ -2,7 +2,7 @@
 
 🎓 EDHEC Business School – PGE (Data Science & Finance)
 
-📈 Aspiring Sales & Trading professional with strong interest in derivatives, commodities, risk management, and market dynamics
+📈 Aspiring Sales & Trading professional with strong interest in derivatives, commodities, risk management and market dynamics
 
 ## Interests
 - Financial markets and macroeconomics
@@ -12,6 +12,7 @@
 
 ## Projects
 - ⛽ [European Gas Market ML Research Pipeline](https://github.com/mathieuvlnt/gas-ml-research-pipeline)
+- 🌍 [Carbon Market Dashboard & Risk Analysis](https://github.com/mathieuvlnt/carbon-market-dashboard)
 - 📊 [Pairs Trading Strategy (AAPL vs KO)](https://github.com/mathieuvlnt/pairs-trading-strategy-aapl-ko)
 - 📈 [Black-Scholes Option Pricing](https://github.com/mathieuvlnt/option-pricing-black-scholes)
 - 🔁 [Delta Hedging Simulation](https://github.com/mathieuvlnt/delta-hedging-simulation)
