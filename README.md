@@ -11,6 +11,7 @@
 - Market microstructure and risk  
 
 ## Projects
+- 📊 [Adaptive Market Regime Explorer](https://github.com/mathieuvlnt/adaptive-market-regime-explorer)
 - ⛽ [European Gas Market ML Research Pipeline](https://github.com/mathieuvlnt/gas-ml-research-pipeline)
 - 🌍 [Carbon Market Dashboard & Risk Analysis](https://github.com/mathieuvlnt/carbon-market-dashboard)
 - 📊 [Pairs Trading Strategy (AAPL vs KO)](https://github.com/mathieuvlnt/pairs-trading-strategy-aapl-ko)
