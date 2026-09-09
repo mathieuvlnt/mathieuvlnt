@@ -1,19 +1,28 @@
 # Mathieu Voluntario
 
-🎓 EDHEC Business School – PGE (Data Science & Finance)
+🎓 EDHEC Business School – PGE (Data Science & Finance) & MSc in Financial Engineering
 
-📈 Aspiring Sales & Trading professional with strong interest in derivatives, commodities, risk management and market dynamics
+💼 Cross-Asset Structurer Intern – Société Générale CIB
 
-## Interests
-- Financial markets and macroeconomics
-- Commodities markets 
-- Trading strategies and quantitative analysis  
-- Market microstructure and risk  
+⚡ Aspiring Commodities & Global Markets professional with a strong interest in energy markets, commodity derivatives, macroeconomics, quantitative analysis and risk management
 
-## Projects
-- 📊 [Adaptive Market Regime Explorer](https://github.com/mathieuvlnt/adaptive-market-regime-explorer)
+## Commodities & Markets Interests
+- Energy and commodities trading
+- European natural gas (TTF) and power markets
+- Carbon markets (EU ETS / EUA)
+- Commodity derivatives and hedging
+- Macro-driven trading strategies
+- Futures curves, volatility and market risk
+- Quantitative research and market data analysis
+
+## Commodities & Energy Projects
 - ⛽ [European Gas Market ML Research Pipeline](https://github.com/mathieuvlnt/gas-ml-research-pipeline)
+Machine Learning research pipeline applied to the European natural gas market (TTF), including quantitative feature engineering, model comparison and interactive research tools.
 - 🌍 [Carbon Market Dashboard & Risk Analysis](https://github.com/mathieuvlnt/carbon-market-dashboard)
+Quantitative analysis of the European carbon market (EUA), its volatility, drawdowns and dynamic relationships with TTF natural gas and Brent crude oil.
+
+## Derivatives & Quantitative Markets Projects
+- 📊 [Adaptive Market Regime Explorer](https://github.com/mathieuvlnt/adaptive-market-regime-explorer)
 - 📊 [Pairs Trading Strategy (AAPL vs KO)](https://github.com/mathieuvlnt/pairs-trading-strategy-aapl-ko)
 - 📈 [Black-Scholes Option Pricing](https://github.com/mathieuvlnt/option-pricing-black-scholes)
 - 🔁 [Delta Hedging Simulation](https://github.com/mathieuvlnt/delta-hedging-simulation)
@@ -21,9 +30,11 @@
 - 📄 [Statistical Analysis (R Markdown)](https://github.com/mathieuvlnt/ProjetStatistique)
 
 ## Tools
-Python (pandas, numpy, statsmodels, ...), R, Excel, VBA, ML
+Python (pandas, numpy, statsmodels, scikit-learn), Machine Learning, SQL, VBA, Excel, R, Streamlit, Plotly
 
-I am highly motivated to deepen my understanding of financial markets and build a great career in Sales & Trading.
+## Career Focus
+My objective is to build a career in Commodities Trading, combining fundamental market understanding, macroeconomic analysis, derivatives knowledge and quantitative tools.
+
 
 ## Contact
 📧 [mathieu.voluntario@edhec.com](mailto:mathieu.voluntario@edhec.com)  
