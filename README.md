@@ -1,6 +1,6 @@
 # Mathieu Voluntario
 
-🎓 EDHEC Business School – PGE (Data Science & Finance) & MSc in Financial Engineering
+🎓 EDHEC Business School – Dual Degree: MiM (PGE Data Science & Finance) & MSc in Financial Engineering
 
 💼 Cross-Asset Structurer Intern – Société Générale CIB
 
