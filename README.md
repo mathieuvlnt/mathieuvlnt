@@ -24,8 +24,7 @@ Quantitative analysis of the European carbon market (EUA), its volatility, drawd
 Python (pandas, numpy, statsmodels, scikit-learn), Machine Learning, SQL, VBA, Excel, R, Streamlit, Plotly
 
 ## Career Focus
-My objective is to build a career in Commodities Trading, combining fundamental market understanding, macroeconomic analysis, derivatives knowledge and quantitative tools.
-
+My objective is to pursue a career in Global Markets, combining market analysis, derivatives expertise, quantitative skills and a strong interest in client-driven financial solutions and trading activities.
 
 ## Contact
 📧 [mathieu.voluntario@edhec.com](mailto:mathieu.voluntario@edhec.com)  
