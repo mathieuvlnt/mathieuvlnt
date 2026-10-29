@@ -4,16 +4,7 @@
 
 💼 Cross-Asset Structurer Intern – Société Générale CIB
 
-⚡ Aspiring Commodities & Global Markets professional with a strong interest in energy markets, commodity derivatives, macroeconomics, quantitative analysis and risk management
-
-## Commodities & Markets Interests
-- Energy and commodities trading
-- European natural gas (TTF) and power markets
-- Carbon markets (EU ETS / EUA)
-- Commodity derivatives and hedging
-- Macro-driven trading strategies
-- Futures curves, volatility and market risk
-- Quantitative research and market data analysis
+⚡ Aspiring Global Markets professional with a strong interest in Sales & Trading, derivatives, macroeconomics, quantitative analysis and risk management.
 
 ## Commodities & Energy Projects
 - ⛽ [European Gas Market ML Research Pipeline](https://github.com/mathieuvlnt/gas-ml-research-pipeline)
