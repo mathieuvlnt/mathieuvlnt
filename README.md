@@ -4,7 +4,7 @@
 
 💼 Cross-Asset Structurer Intern – Société Générale CIB
 
-⚡ Aspiring Global Markets professional with a strong interest in Sales & Trading, derivatives, macroeconomics, quantitative analysis and risk management.
+⚡ Aspiring Global Markets professional with a strong interest in Sales & Trading, derivatives, commodities, macroeconomics, quantitative analysis and risk management.
 
 ## Commodities & Energy Projects
 - ⛽ [European Gas Market ML Research Pipeline](https://github.com/mathieuvlnt/gas-ml-research-pipeline)
